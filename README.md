@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @josephdwhiteley
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently studying my PhD in pharmaceutical chemistry
+- 💞️ I’m looking to collaborate on anything!
